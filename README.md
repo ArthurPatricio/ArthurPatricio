@@ -13,3 +13,9 @@
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=ArthurPatricio&show_icons=True&theme=radical"/>   
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPatricio&theme=radical"/>    
 <div>
+  
+##
+  
+<div>
+  <a href="https://api.whatsapp.com/send?phone=21998309696" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+<div>
