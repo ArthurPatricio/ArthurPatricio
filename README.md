@@ -1,6 +1,6 @@
 # 🚙 Hello There Traveler!!
 
-**Arthur Patricio here!** But I guess you already deduced that from my user name...test
+**Arthur Patricio here!** But I guess you already deduced that from my user name...
 
 - 🖥 Currently working on ETL processing and Data Warehouse modeling for Data Visualization <br />
 
